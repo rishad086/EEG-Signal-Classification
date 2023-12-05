@@ -1,0 +1,4 @@
+https://keras.io/examples/vision/image_classification_from_scratch/
+https://techairesearch.com/time-series-feature-extraction-for-industrial-big-data-iiot-applications/#:~:text=In%20the%20context%20of%20time%20series%20data%20it,extracted%20features%20based%20on%20its%20relevancy.%20More%20items
+https://youtu.be/oElbide7PGs
+https://www.youtube.com/watch?v=_BdBJOOqMes&list=PLtGXgNsNHqPTgP9wyR8pmy2EuM2ZGHU5Z
